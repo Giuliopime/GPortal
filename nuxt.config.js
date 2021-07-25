@@ -1,7 +1,7 @@
 import redirects from './assets/redirects.json'
 
 export default {
-  // Target: https://go.nuxtjs.dev/config-target  testing deployment #4
+  // Target: https://go.nuxtjs.dev/config-target  testing deployment
   target: 'static',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
