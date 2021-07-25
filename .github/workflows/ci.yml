@@ -19,10 +19,10 @@ jobs:
       - name: Copy repository contents via scp
         uses: appleboy/scp-action@master
         env:
-          host: ${{ secrets.HOST }}
-          port: ${{ secrets.PORT }}
-          username: ${{ secrets.USERNAME }}
-          key: ${{ secrets.KEY }}
+          HOST: ${{ secrets.HOST }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PORT: ${{ secrets.PORT }}
+          KEY: ${{ secrets.KEY }}
         with:
           source: "."
           target: "/var/www/html/gportal"
