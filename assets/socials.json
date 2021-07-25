@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GitHub",
+    "url": "/github",
+    "icon": "github"
+  },
+  {
+    "name": "Discord",
+    "url": "/discord",
+    "icon": "discord"
+  },
+  {
+    "name": "Instagram",
+    "url": "/instagram",
+    "icon": "instagram"
+  },
+  {
+    "name": "E-Mail",
+    "url": "mailto:giuliopime@gmail.com",
+    "icon": "at"
+  },
+  {
+    "name": "Spotify",
+    "url": "/spotify",
+    "icon": "spotify"
+  },
+  {
+    "name": "Twitch",
+    "url": "/twitch",
+    "icon": "twitch"
+  }
+]
