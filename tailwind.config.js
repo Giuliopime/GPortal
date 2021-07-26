@@ -1,4 +1,5 @@
 module.exports = {
+  mode: 'jit',
   purge: [
     './components/**/*.{vue,js}',
     './layouts/**/*.vue',
@@ -7,10 +8,16 @@ module.exports = {
   ],
   darkMode: 'media', // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      zIndex: {
+        '-1': '-1',
+      }
+    }
   },
   variants: {
-    extend: {},
+    extend: {
+      animation: ['hover'],
+    }
   },
   plugins: [],
 }

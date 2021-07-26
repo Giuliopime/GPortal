@@ -1,5 +1,5 @@
 <template>
-  <div class='flex-center text-2xl title'>
+  <div data-aos="zoom-in" data-aos-duration='300' class='flex-center text-2xl title'>
     Redirecting...
   </div>
 </template>
