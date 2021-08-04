@@ -146,6 +146,6 @@ export default {
   },
 
   sitemap: {
-    hostname: 'https://rxs.to',
+    hostname: 'https://giuliopime.dev',
   },
 }
