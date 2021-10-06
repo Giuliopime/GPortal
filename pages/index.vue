@@ -51,7 +51,7 @@ export default {
   },
   computed: {
     age () {
-      return parseInt((Date.now() - new Date(2003, 9, 29).getTime()) / 31556952000)
+      return parseInt((Date.now() - new Date(2003, 8, 29).getTime()) / 31556952000)
     }
   }
 }
