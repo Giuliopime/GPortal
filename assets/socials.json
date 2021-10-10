@@ -5,11 +5,6 @@
     "icon": "github"
   },
   {
-    "name": "Discord",
-    "url": "/discord",
-    "icon": "discord"
-  },
-  {
     "name": "Instagram",
     "url": "/instagram",
     "icon": "instagram"
@@ -19,14 +14,9 @@
     "url": "mailto:giuliopime@gmail.com",
     "icon": "at"
   },
-  {
-    "name": "Spotify",
-    "url": "/spotify",
-    "icon": "spotify"
-  },
-  {
-    "name": "Twitch",
-    "url": "/twitch",
-    "icon": "twitch"
+    {
+    "name": "Discord",
+    "url": "/discord",
+    "icon": "discord"
   }
 ]
