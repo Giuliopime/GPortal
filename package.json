@@ -10,6 +10,9 @@
   "bugs": {
     "url": "https://github.com/Giuliopime/GPortal/issues"
   },
+  "engines": {
+    "node": ">=16.0.0 <17.0.0"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -21,7 +24,7 @@
     "@nuxtjs/sitemap": "^2.4.0",
     "aos": "^3.0.0-beta.6",
     "core-js": "^3.15.1",
-    "nuxt": "^2.15.7",
+    "nuxt": "^2.17.1",
     "tsparticles": "^1.32.0"
   },
   "devDependencies": {
