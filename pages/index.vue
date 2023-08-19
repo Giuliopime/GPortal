@@ -32,7 +32,7 @@
         class='flex-center m-2.5 md:m-4 animate-pulse hover:animate-none'
       >
         <FontAwesomeIcon
-          :icon='[social.icon === "at" ? "fas" : "fab", social.icon]'
+          :icon='[(social.icon === "at" || social.icon === "rss") ? "fas" : "fab", social.icon]'
           class='text-3xl'
         />
       </a>
