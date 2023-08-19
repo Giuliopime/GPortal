@@ -5,6 +5,11 @@
     "icon": "github"
   },
   {
+    "name": "Medium",
+    "url": "/medium",
+    "icon": "medium"
+  },
+  {
     "name": "Instagram",
     "url": "/instagram",
     "icon": "instagram"
@@ -14,7 +19,7 @@
     "url": "mailto:giuliopime@gmail.com",
     "icon": "at"
   },
-    {
+  {
     "name": "Discord",
     "url": "/discord",
     "icon": "discord"
