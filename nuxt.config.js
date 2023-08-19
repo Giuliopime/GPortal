@@ -141,7 +141,7 @@ export default {
   fontawesome: {
     icons: {
       solid: ['faAt', 'faCode', 'faArrowLeft'],
-      brands: ['faGithub', 'faDiscord', 'faInstagram', 'faSpotify', 'faTwitch']
+      brands: ['faGithub', 'faDiscord', 'faInstagram', 'faSpotify', 'faTwitch', 'faMedium']
     }
   },
 
