@@ -20,6 +20,11 @@
     "icon": "at"
   },
   {
+    "name": "Blog",
+    "url": "/blog",
+    "icon": "blog"
+  },
+  {
     "name": "Discord",
     "url": "/discord",
     "icon": "discord"

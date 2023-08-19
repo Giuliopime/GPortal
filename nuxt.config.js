@@ -140,7 +140,7 @@ export default {
 
   fontawesome: {
     icons: {
-      solid: ['faAt', 'faCode', 'faArrowLeft'],
+      solid: ['faAt', 'faCode', 'faArrowLeft', 'faRss'],
       brands: ['faGithub', 'faDiscord', 'faInstagram', 'faSpotify', 'faTwitch', 'faMedium']
     }
   },
